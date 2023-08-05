@@ -2,7 +2,13 @@
 
 💻 I'm a Data Analyst who provides data-driven solutions to real-world problems.
 
-❤️ I also love creating blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
+📌 **Skills**
+    Languages: SQL, Python
+    DBMS: Microsoft SQL Server, MYSQL Workbench
+    Data Visualization: Power BI, Tableau
+    Data Transformation/ETL: Azure, SSIS
+
+❤️ I love creating blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
     Check it out: [Medium](https://medium.com/me/stories/public)
 
 👨‍🏫 I’m currently curious and learning about data engineering. I look forward to building solve more problems in the niche.
