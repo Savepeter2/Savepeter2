@@ -5,7 +5,7 @@
 ❤️ I also love creating blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
     Check it out: [Medium](https://medium.com/me/stories/public)
 
-👨‍🏫 I’m currently learning about data engineering and look forward to building more interesting projects in the niche.
+👨‍🏫 I’m currently curious and learning about data engineering. I look forward to building solve more problems in the niche.
 
 👯 I’m looking to collaborate with clients, and data professionals in solving more interesting problems that provide value.
 
