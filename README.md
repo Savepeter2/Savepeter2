@@ -13,7 +13,7 @@
 
 💬 Ask me about Data Analytics related topics.
 
-💼 [Project Repos](https://github.com/Savepeter2?tab=repositories)  
+💼 [Projects Repo](https://github.com/Savepeter2?tab=repositories)  
 
 📫 Reach out to me!: [LinkedIn](https://www.linkedin.com/in/peter-adekolu-593a001a1/) or [Gmail](peteradekolu@gmail.com).
 
