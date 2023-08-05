@@ -12,7 +12,7 @@
     
     Data Transformation/ETL: Azure, SSIS
 
-❤️ I love creating blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
+❤️ I also creating blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
     Check it out: [Medium](https://medium.com/me/stories/public)
 
 👨‍🏫 I’m currently curious and learning about data engineering. I look forward to solving more problems in the niche.
