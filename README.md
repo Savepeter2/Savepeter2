@@ -3,9 +3,13 @@
 💻 I'm a Data Analyst who provides data-driven solutions to real-world problems.
 
 📌 **Skills**
+
     Languages: SQL, Python
+    
     DBMS: Microsoft SQL Server, MYSQL Workbench
+    
     Data Visualization: Power BI, Tableau
+    
     Data Transformation/ETL: Azure, SSIS
 
 ❤️ I love creating blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
