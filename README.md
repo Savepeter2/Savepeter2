@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Adekolu Peter
 
-❤️ I provide data-driven solutions to real-world problems.
+❤️ I'm a Data Analyst who provides data-driven solutions to real-world problems.
 
 🌱 I’m currently learning about data engineering and look forward to building more interesting projects in the niche.
 
