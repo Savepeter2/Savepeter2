@@ -11,7 +11,7 @@
 
 👀 I’m open to internships, roles that will improve my career growth and add value to the organization.
 
-💬 Ask me about Data analytics-related topics.
+💬 Ask me about Data Analytics related topics.
 
 💼 [Project Repos](https://github.com/Savepeter2?tab=repositories)  
 
