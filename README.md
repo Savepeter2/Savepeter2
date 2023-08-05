@@ -25,7 +25,7 @@
 
 💼 [Projects Repo](https://github.com/Savepeter2?tab=repositories)  
 
-📫 Reach out to me!: [LinkedIn](https://www.linkedin.com/in/peter-adekolu-593a001a1/) or [Gmail](@peteradekolu@gmail.com).
+📫 Reach out to me!: [LinkedIn](https://www.linkedin.com/in/peter-adekolu-593a001a1/).
 
 😄 Pronouns: Him/He/His.
 
