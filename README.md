@@ -29,7 +29,7 @@
 
 💼 [Projects Repo](https://github.com/Savepeter2?tab=repositories) 
 
-💼 [CV](https://drive.google.com/file/d/1VD_aloBM-zXUAro26w-EliDV-1NdcITq/view?usp=sharing)
+💼 [CV](https://drive.google.com/file/d/1D26mBhN5ZXuWc0ZEWV43k-T8RN7HJwDL/view?usp=sharing)
 
 📫 Reach out to me!: [LinkedIn](https://www.linkedin.com/in/peter-adekolu-593a001a1/).
 
