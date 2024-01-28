@@ -16,7 +16,7 @@
 
     Ochestration Tool: Prefect
 
-❤️ I also create blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
+❤️ I also create blogs about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
     Check it out: [Medium](https://medium.com/@peteradekolu)
 
 👨‍🏫 I’m currently curious and learning about AWS. I look forward to solving more problems leveraging it.
