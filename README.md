@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Adekolu Peter
 
-💻 I'm a Data Analyst who provides data-driven solutions to real-world problems.
+💻 I'm a Data Analyst and a Data Backend Engineer who provides data-driven solutions to real-world problems.
 
 📌 **Skills**
 
@@ -10,12 +10,16 @@
     
     Data Visualization: Power BI, Tableau
     
-    Data Transformation/ETL: Azure, SSIS
+    ETL: Azure, Dbt, SSIS 
+
+    Backend Frameworks: FastAPI
+
+    Ochestration Tool: Prefect
 
 ❤️ I also create blog posts about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
-    Check it out: [Medium](https://medium.com/me/stories/public)
+    Check it out: [Medium](https://medium.com/@peteradekolu)
 
-👨‍🏫 I’m currently curious and learning about data engineering. I look forward to solving more problems in the niche.
+👨‍🏫 I’m currently curious and learning about AWS. I look forward to solving more problems in the niche.
 
 👯 I’m looking to collaborate with clients, and data professionals in solving more interesting problems that provide value.
 
