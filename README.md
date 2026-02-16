@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Adekolu Peter
 
-💻 A Data Engineer with strong hands-on experience building scalable and reliable data systems. My journey has been driven by a deep interest in designing data architectures that don’t just store data, but transform it into meaningful, business-ready insights.
+💻 A Data Engineer with strong hands-on experience building scalable and reliable data systems.
+
+My journey has been driven by a deep interest in building data architectures that don’t just store data, but transform it into meaningful, business-ready insights.
 
 📌 **Skills**
 
