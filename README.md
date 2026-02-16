@@ -1,29 +1,29 @@
 ### Hi there 👋 I'm Adekolu Peter
 
-💻 I'm a Data Analyst and a Data Backend Engineer who provides data-driven solutions to real-world problems.
+💻 A Data Engineer with strong hands-on experience building scalable and reliable data systems. My journey has been driven by a deep interest in designing data architectures that don’t just store data, but transform it into meaningful, business-ready insights.
 
 📌 **Skills**
 
-    Languages: SQL, Python
+    Technical Skills: Data Modeling, Database Design, Data Pipelines, ETL/ELT, Cloud Platforms, Data Architecture, Data Storage, CI/CD, Infrastructure as code (IAC)			
     
-    DBMS: Microsoft SQL Server, MYSQL Workbench
+    Tools: Python, Apache Spark, SQL, Airflow, Prefect, Docker, dbt, Snowflake, git, Terraform
     
-    Data Visualization: Power BI, Tableau
-    
-    ETL: Azure, Dbt, SSIS 
+    AWS Services: S3, Glue, Amazon Redshift, Lambda
 
-    Backend Frameworks: FastAPI
+    GCP: BigQuery, Google Cloud Storage   
 
-    Ochestration Tool: Prefect
+    Backend Frameworks: FastAPI, Django
+
+    Ochestration Tool: Airflow, Prefect
 
 ❤️ I also create blogs about my solutions to Hackerrank/Scratascratch medium/hard difficulty SQL interview questions, Python and Power BI. 
     Check it out: [Medium](https://medium.com/@peteradekolu)
 
-👨‍🏫 I’m currently curious and learning about AWS. I look forward to solving more problems leveraging it.
+👨‍🏫 I’m currently learning Kafka and Kubernetes.
 
 👯 I’m looking to collaborate with clients, and data professionals in solving more interesting problems that provide value.
 
-👀 I’m open to internships, roles that will improve my career growth and add value to the organization.
+👀 I’m open to junior roles that will improve my career growth and add value to your organization.
 
 💬 Ask me about Data Analytics related topics.
 
@@ -35,5 +35,5 @@
 
 😄 Pronouns: Him/He/His.
 
-⚡ Fun fact: When I'm not studying or doing Analytics stuff, I'm playing FIFA, playing football, watching movies or eating.
+⚡ Fun fact: When I'm not studying or doing data engineering stuff, I'm either playing FIFA, watching movies or eating.
 
