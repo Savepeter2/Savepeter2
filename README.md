@@ -31,9 +31,9 @@ My journey has been driven by a deep interest in building data architectures tha
 
 💼 [Projects Repo](https://github.com/Savepeter2?tab=repositories) 
 
-💼 [CV](https://drive.google.com/file/d/1D26mBhN5ZXuWc0ZEWV43k-T8RN7HJwDL/view?usp=sharing)
+💼 [CV](https://docs.google.com/document/d/1SI8zXlCxt_7m3R-g1NT1tz3CkGXX9H-7GgfPIdd889M/edit?usp=sharing)
 
-📫 Reach out to me!: [LinkedIn](https://www.linkedin.com/in/peter-adekolu-593a001a1/).
+📫 Reach out to me!: [LinkedIn](https://www.linkedin.com/in/peter-adekolu-593a001a1/) [Mail](peteradekolu@gmail.com).
 
 😄 Pronouns: Him/He/His.
 
